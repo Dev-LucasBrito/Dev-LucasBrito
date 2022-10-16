@@ -21,7 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-lucasbrito&show_icons=true&locale=en&layout=compact" alt="dev-lucasbrito" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-lucasbrito&show_icons=true&locale=en" alt="dev-lucasbrito" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-lucasbrito&" alt="dev-lucasbrito" /></p>
 
